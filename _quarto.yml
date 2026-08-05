@@ -2,20 +2,20 @@ project:
   type: website
 
 website:
-  title: "Class Wiki for Principles of Psychological Assessment (Spring 2026)"
-  repo-url: https://github.com/isaactpetersen/psy-5330-2026-spring
+  title: "Class Wiki for Principles of Psychological Assessment (Spring 2028)"
+  repo-url: https://github.com/isaactpetersen/psy-5330-2028-spring
   repo-actions: [edit, source, issue]
   google-analytics: G-CD13WE2PJ3
   navbar:
-    title: "Class Wiki for Principles of Psychological Assessment (Spring 2026)"
+    title: "Class Wiki for Principles of Psychological Assessment (Spring 2028)"
     search: true
     tools:
       - icon: github
         menu:
           - text: "Source Code"
-            href: https://github.com/isaactpetersen/psy-5330-2026-spring
+            href: https://github.com/isaactpetersen/psy-5330-2028-spring
           - text: "Report a Bug"
-            href: https://github.com/isaactpetersen/psy-5330-2026-spring/issues/new
+            href: https://github.com/isaactpetersen/psy-5330-2028-spring/issues/new
     left:
       - href: index.qmd
         text: Home
