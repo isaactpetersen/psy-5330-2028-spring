@@ -58,7 +58,7 @@ format:
     date-meta: today
   pdf:
     keep-tex: true
-    pdf-standard: ua-2
+    #pdf-standard: ua-2
 
 lightbox: 
   match: auto
