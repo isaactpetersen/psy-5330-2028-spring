@@ -1,0 +1,769 @@
+---
+title: "Course Syllabus"
+engine: knitr
+format: 
+  html: default
+  pdf: default
+format-links: true
+---
+
+Last Updated: `r format(Sys.Date(), "%m/%d/%Y")`
+
+# Course Title {#sec-title}
+
+PSY:5330 – Principles of Psychological Assessment (Spring 2026)
+
+# Course Meeting Time and Place {#sec-lectureTime}
+
+Tuesday & Thursday 9:30 a.m.–10:45 a.m., 109 Stuit Hall (STH)
+
+# Course Website {#sec-website}
+
+<https://uiowa.instructure.com>
+
+To access the course site, log into [Canvas](https://uiowa.instructure.com) using your Hawk ID and password.
+
+# Course Home {#sec-home}
+
+The University of Iowa\
+The College of Liberal Arts and Sciences\
+Department of Psychological and Brain Sciences
+
+The College of Liberal Arts and Sciences (CLAS) is the home of this course, and CLAS governs the policies and procedures for its courses.
+Graduate students, however, must adhere to the [academic deadlines set by the Graduate College](https://grad.uiowa.edu/academics/deadlines).
+
+# Instructor Contact Information {#sec-instructor}
+
+[Isaac T. Petersen, Ph.D.](https://psychology.uiowa.edu/people/isaac-petersen)\
+Office: 175 Psychological and Brain Sciences Building (PBSB)\
+E-mail: [isaac-t-petersen@uiowa.edu](mailto:isaac-t-petersen@uiowa.edu)\
+Office Phone: 467-1014\
+Office Hours: by appointment\
+
+# Departmental Resources {#sec-deptResources}
+
+Department of Psychological and Brain Sciences: <https://psychology.uiowa.edu>\
+Department of Psychological and Brain Sciences Main Office: G60 Psychological and Brain Sciences Building (335-2406)\
+Director of Graduate Studies: Ryan LaLumiere ([ryan-lalumiere@uiowa.edu](mailto:ryan-lalumiere@uiowa.edu); 335-3681)\
+Departmental Executive Officer (DEO)/Department Chair: Professor Blumberg ([mark-blumberg@uiowa.edu](mailto:mark-blumberg@uiowa.edu); 335-2424)
+
+# Prerequisites {#sec-prereqs}
+
+To succeed in the class, it is helpful to have foundational understanding of correlation and multiple regression.
+
+# Description of Course {#sec-description}
+
+Much of the current discussion in psychology surrounding the replication crisis deals with questionable research practices.
+However, the field has paid insufficient attention to how lousy/noisy measures might contribute to the replication crisis (Loken & Gelman, 2017).
+In this class, we cover content that is relevant to all of Psychology and science more broadly, including how to develop, administer, score, integrate, and interpret measures.
+Topics will include, for example, psychometrics ([reliability](#sec-section2) and [validity](#sec-section4)), [prediction](#sec-section8), [structural equation modeling](#sec-section6), [factor analysis](#sec-section20), [signal detection theory](#sec-section9), [item response theory](#sec-section7), [adaptive testing](#sec-section25), [longitudinal/repeated measurement](#sec-section27), and issues in [cognitive](#sec-section29), [social/behavioral](#sec-section26), and [psychophysiological](#sec-section24) assessment.
+
+In this course, we examine basic psychometrics and the background, development, evaluation, administration, scoring, integration, and interpretation of selected techniques in psychological assessment.
+The course applies a scientific perspective to psychological assessment.
+*You are urged to reconsider your decision to take this class if you are reluctant to examine these topics in a scientific manner.*
+
+# Learning Outcomes {#sec-learningOutcomes}
+
+The focus of this class is NOT on application (e.g., how to assess each psychological disorder, how to use particular measures, etc).
+This course is focused on important *principles* of psychological assessment.
+The goal of the class is to give you lots of "thinking tools" relevant to psychological assessment—i.e., "how to think" about and critically evaluate assessments in psychology—to help you advance your research program.
+Learning the important principles will put you in a better position to learn any assessment, and to develop better ones.
+
+# Supplemental Resources {#sec-supplemental}
+
+Even though the course is focused on principles of psychological assessment and not on application, I want you to be able to apply the principles we discuss.
+So, I provide lots of additional readings and resources on the assessment of particular disorders, using particular measures, etc.
+These supplemental resources are in the "For More Info" folder in [Canvas](https://uiowa.instructure.com).
+The folder also includes an EndNote file with the course readings.
+In addition, I provide a companion book (see [below](#sec-textbook)).
+
+# Companion Book {#sec-textbook}
+
+I want those who are interested to be in the best position to apply the principles we discuss.
+Thus, I created a companion book for the course that includes practical data and analysis examples to help you better understand the principles and how to apply them in your own research.
+The companion book includes exercises to help you test your comprehension.
+<u>The companion book is NOT intended to replace the importance of reading the [required primary source articles](#sec-readings)</u> (which are covered on the exams).
+<u>You are NOT required or expected to read the companion book for this class.</u>
+The companion book is merely meant to be a helpful supplementary resource for those who are interested.
+You can access the companion book here: <https://isaactpetersen.github.io/Principles-Psychological-Assessment>
+
+# Academic Honesty and Misconduct {#sec-academicHonesty}
+
+All students in CLAS courses are expected to abide by the [college's standards of academic honesty](https://clas.uiowa.edu/students/handbook/academic-fraud-honor-code).
+Academic misconduct must be reported to the Graduate College according to Section F of the [Graduate College Manual](https://grad.uiowa.edu/academics/manual/academic-program/section-iv-academic-standing-probation-and-dismissal).
+Please note that collaboration with other classmates during exams is not permitted.
+However, I do encourage you to collaborate with classmates on readings and to *prepare* for exams (e.g., informal study groups).
+In addition, you are expected to follow the course's policy on the use of artificial intelligence (AI), which is outlined below.
+
+# Artificial Intelligence (AI) Policy {#sec-ai}
+
+Because writing, analytical, and critical thinking skills are part of the learning outcomes of this course, all work submitted by students should be prepared by the student.
+You are training these cognitive muscles; if you go to the gym, you would not have AI lift the weights for you.
+For these reasons, AI-generated submissions are not permitted and will be treated as plagiarism.
+Learning these core foundational skills will make you a better user of AI in the future, because you will be better-positioned in the future to critically evaluate AI responses and to identify when (and the ways in which) its responses are inaccurate.
+Moreover, in many industries, use of AI is not permitted because you cannot share the company's proprietary information.
+Thus, developing strong competencies in these domains (without the use of AI) will prepare you for a competitive workplace.
+
+# Course Requirements and Policies {#sec-requirements}
+
+- [Assigned readings](#sec-readings)
+- [Class participation](#sec-attendanceParticipation)
+- [Midterm Exam](#sec-exams)
+- [Final Exam](#sec-exams)
+- [Paper](#sec-paper)
+
+## Lecture {#sec-lecture}
+
+The course is primarily lecture.
+We will meet twice weekly for lectures, at the time and location described [above](#sec-lectureTime).
+There is considerable material to cover, and we will move quickly.
+You should feel free to ask questions during lecture, although some questions may need to be deferred given the need to complete coverage of specific material.
+<u>Questions and further discussion of class material are always welcome</u> during office hours and via e-mail.
+Please bear in mind that extensive or complex questions may not be addressable over e-mail.
+
+### Lecture Recordings {#sec-recordings}
+
+My intention is to record lectures so the lectures are available to you virtually and in person so you have the choice of viewing them how you see fit and so you may review them.
+Recorded lectures will be posted on the "UICapture" tab in [Canvas](https://uiowa.instructure.com).
+Unfortunately, the recordings do not capture when I draw on the classroom whiteboard.
+However, <u>please do not count on recordings being available</u>, in case I accidentally forget to initiate the recording or there is a technical malfunction.
+
+## Attendance and Participation {#sec-attendanceParticipation}
+
+Attendance and participation are strongly encouraged to maximize your and others' learning.
+
+## Readings {#sec-readings}
+
+We have lots of content to cover, and the lectures will move quickly.
+Thus, doing the relevant readings *before* each class will help you best come prepared to learn the material presented in class.
+Readings and other materials will be posted on [Canvas](https://uiowa.instructure.com).
+The articles to read are specified in the [Articles](#sec-articles) section of the syllabus.
+
+## Examinations {#sec-exams}
+
+There will be 2 exams.
+Exam 1 will be administered during class time.
+The date, time, and location of the final exam will be announced by the 5th week of class by the College of Liberal Arts and Sciences; the duration of the final exam will be 120 minutes.
+The exams will be short answer/essay questions.
+The final exam is non-cumulative; each exam will emphasize information presented for the half of the class that precedes it.
+However, some integration of information will be required for questions on the second exam.
+Exam questions can come from lectures or required readings.
+
+### Missing Exams {#sec-missingExams}
+
+[University regulations require that students be allowed to make up examinations](https://opsmanual.uiowa.edu/students/absences-class) that have been missed due to illness, religious holy days, military service obligations (including service-related medical appointments), or other unavoidable circumstances or University-sponsored activities.
+Note: the format of the make-up exam may differ from the original exam.
+If you know that you must be away at the time of an exam for one of these reasons, please contact me in advance whenever possible to schedule a make-up exam.
+
+## Paper {#sec-paper}
+
+You will write a final/term paper on a topic pertaining to assessment.
+The paper can be a literature review pertaining to assessment (with recommendations), or it can be a paper on the development of an assessment technique.
+The goal is for the paper to be as relevant to your research interests as possible, so it directly advances your research program.
+Please do not stress about the paper.
+Your paper should be less than 20 pages (excluding references).
+It is okay (and encouraged!) for you to use, as your paper, something that you are already working on or to write a paper that you are submitting for another assignment—consider writing a paper that could be a publication.
+I want to keep the topic requirements of the paper flexible and open-ended so the paper can be as relevant for your research program as possible—the only requirement is that the paper topic is relevant to assessment, and that your paper incorporates ideas we discuss in class.
+
+Your final paper is due before the last class (<u>**Deadline: 9:30 am on Thursday, May 7**</u>).
+Please submit your paper via [Canvas](https://uiowa.instructure.com).
+
+# Articles {#sec-articles}
+
+The section covered for each class is described in the [Course Outline](#sec-outline).
+The articles to read for each section are specified below.
+Articles are posted in the "Files" tab on [Canvas](https://uiowa.instructure.com).
+
+\*Designates a paper that you should read, get the basic idea, and remember where to find it if you need further information.
+These are typically historical papers, illustrations of specific techniques, or useful references.
+
+References highlighted in yellow are the readings that you should pay closest attention to.
+Blue highlights provide additional useful information.
+
+## Psychometrics, Prediction, and General Issues {.unnumbered .unlisted}
+
+### Science and the Replication Crisis {#sec-section1 .unlisted}
+
+<div style="text-indent: -40px; padding-left: 40px;">
+
+#### <u>Section 1</u> {.unnumbered}
+
+Loken, E., & Gelman, A. (2017). Measurement error and the replication crisis. *Science*, *355*(6325), 584–585. <https://doi.org/10.1126/science.aal3618>
+
+<mark>McFall, R. M. (1991). Manifesto for a science of clinical psychology. *The Clinical Psychologist*, *44*(6), 75–91.</mark>
+
+<mark>McFall, R. M. (2000). Elaborate reflections on a simple manifesto. *Applied & Preventive Psychology*, *9*(1), 5–21. <https://doi.org/10.1016/s0962-1849(05)80035-6></mark>
+
+### Reliability {#sec-section2}
+
+#### <u>Section 2</u> {.unnumbered}
+
+<mark>McNeish, D. (2018). Thanks coefficient alpha, we'll take it from here. *Psychological Methods*, *23*(3), 412–433. <https://doi.org/10.1037/met0000144></mark>
+
+\*Galton, F. (1948). Classification of men according to their natural gifts, 1869. In W. Dennis (Ed.), *Readings in the history of psychology* (pp. 231–247). Appleton-Century-Crofts. https://psycnet.apa.org/record/2006-10213-000
+
+\*Garland, L. H. (1960). The problem of observer error. *Bulletin of the New York Academy of Medicine*, *36*(9), 570–584.
+
+#### <u>Section 3</u> {.unnumbered #sec-section3}
+
+<mark>Schmidt, F. L., & Hunter, J. E. (1996). Measurement error in psychological research: Lessons from 26 research scenarios. *Psychological Methods*, *1*(2), 199–223. <https://doi.org/10.1037/1082-989X.1.2.199></mark>
+
+Wiggins, J. S. (1973). Observational techniques: I. Generalizability and facets of observation. In J. S. Wiggins (Ed.), *Personality and prediction: Principles of personality assessment* (pp. 277–295). Addison-Wesley.
+
+### Validity {#sec-section4}
+
+#### <u>Section 4</u> {.unnumbered}
+
+<mark>Campbell, D. T., & Fiske, D. W. (1959). Convergent and discriminant validation by the multitrait-multimethod matrix. *Psychological Bulletin*, *56*(2), 81–105. <https://doi.org/10.1037/h0046016></mark>
+
+Hayes, S. C., Nelson, R. O., & Jarrett, R. B. (1987). The treatment utility of assessment: A functional approach to evaluating assessment quality. *American Psychologist*, *42*, 963–974. <https://doi.org/10.1037/0003-066X.42.11.963>
+
+<mark>Cronbach, L. J., & Meehl, P. E. (1955). Construct validity in psychological tests. *Psychological Bulletin*, *52*(4), 281–302. <https://doi.org/10.1037/h0040957></mark>&nbsp;
+<mark style="background-color: lightblue">[This was also reprinted as Chapter 1 of Meehl's (1973) book, "Psychodiagnosis: Selected papers".]</mark>
+
+#### <u>Section 5</u> {.unnumbered #sec-section5}
+
+<mark>Sechrest, L. (1963). Incremental validity: A recommendation. *Educational and Psychological Measurement*, *23*, 153–158. <https://doi.org/10.1177/001316446302300113></mark>
+
+<mark>Shavelson, R. J., Webb, N. M., & Rawley, R. L. (1989). Generalizability theory. *American Psychologist*, *44*, 922–932. <https://doi.org/10.1037/0003-066X.44.6.922></mark>
+
+Bornstein, R. F. (2011). Toward a process-focused model of test score validity: Improving psychological assessment in science and practice. *Psychological Assessment*, *23*(2), 532–544. <https://doi.org/10.1037/a0022402>
+
+\*American Educational Research Association, American Psychological Association, & National Council on Measurement in Education. (2014). *Standards for educational and psychological testing*. American Educational Research Association.
+<mark style="background-color: lightblue">[This is available in the clinic library.
+You don't need to read this for our class, but you should know it exists as a reference, because it sets the standard for APA journals, licensure exams, and beyond.]</mark>
+
+### Emerging Perspectives in Measurement
+
+#### Structural Equation Modeling (SEM) {#sec-section6}
+
+#### <u>Section 6</u> {.unnumbered}
+
+<mark>Bollen, K. A., & Lennox, R. D. (1991). Conventional wisdom on measurement: A structural equation perspective. *Psychological Bulletin*, *110*(2), 305–314. <https://doi.org/10.1037/0033-2909.110.2.305></mark>
+
+<mark>Podsakoff, P. M., MacKenzie, S. B., & Podsakoff, N. P. (2012). Sources of method bias in social science research and recommendations on how to control it. *Annual Review of Psychology, 63*(1), 539–569. <https://doi.org/10.1146/annurev-psych-120710-100452></mark>
+
+Edwards, J. R., & Bagozzi, R. P. (2000). On the nature and direction of relationships between constructs and measures. *Psychological Methods*, *5*(2), 155–174. <https://doi.org/10.1037/1082-989X.5.2.155>
+<mark style="background-color: lightblue">[read pp. 155–162 carefully, but don't worry about the complex path models that follow unless they are relevant to your own research.]</mark>
+
+#### Item Response Theory (IRT) {#sec-section7}
+
+#### <u>Section 7</u> {.unnumbered}
+
+<mark>Embretson, S. E. (1996). The new rules of measurement. *Psychological Assessment*, *8*, 341–349. <https://doi.org/10.1037/1040-3590.8.4.341></mark>
+
+<mark>Krueger, R. F., Nichol, P. E., Hicks, B. M., Markon, K. E., Patrick, C. J., lacono, W. G., & McGue, M. (2004). Using latent trait modeling to conceptualize an alcohol problems continuum. *Psychological Assessment*, *16*(2), 107–119. <https://doi.org/10.1037/1040-3590.16.2.107></mark>
+
+Cooper, L. D., & Balsis, S. (2009). When less is more: How fewer diagnostic criteria can indicate greater severity. *Psychological Assessment*, *21*(3), 285–293. <https://doi.org/10.1037/a0016698>
+
+Reise, S. P., & Waller, N. G. (2009). Item response theory and clinical measurement. *Annual Review of Clinical Psychology*, *5*(1), 27–48. <https://doi.org/10.1146/annurev.clinpsy.032408.153553>
+
+## Prediction {#sec-section8}
+
+### Basics
+
+#### <u>Section 8</u> {.unnumbered}
+
+<mark>Meehl, P. E., & Rosen, A. (1955). Antecedent probability and the efficiency of psychometric signs, patterns, or cutting scores. *Psychological Bulletin*, *52*(3), 194–216. <https://doi.org/10.1037/h0048070></mark>&nbsp;
+<mark style="background-color: lightblue">[This was also reprinted as Chapter 2 of Meehl's (1973) book, "Psychodiagnosis: Selected papers".]</mark>
+
+### Signal Detection Theory {#sec-section9}
+
+#### <u>Section 9</u> {.unnumbered}
+
+<mark>Treat, T. A., & Viken, R. J. (2023). Measuring test performance with signal detection theory techniques. In H. Cooper, M. N. Coutanche, L. M. McMullen, A. T. Panter, D. Rindskopf, & K. J. Sher (Eds.), *APA handbook of research methods in psychology: Foundations, planning, measures, and psychometrics* (2nd ed., Vol. 1, pp. 837–858). American Psychological Association. <https://doi.org/10.1037/0000318-038></mark>
+
+Swets, J. A., Dawes, R. M., & Monahan, J. (2000). Psychological science can improve diagnostic decisions. *Psychological Science in the Public Interest*, *1*(1), 1–26. <https://doi.org/10.1111/1529-1006.001>
+
+Lindhiem, O., Petersen, I. T., Mentch, L. K., & Youngstrom, E. A. (2020). The importance of calibration in clinical psychology. *Assessment*, *27*(4), 840–854. <https://doi.org/10.1177/1073191117752055>
+
+### Clinical Judgment vs. Algorithmic Prediction {#sec-section10}
+
+#### <u>Section 10</u> {.unnumbered}
+
+Garb, H. N. (2005). Clinical judgment and decision making. *Annual Review of Clinical Psychology*, *1*, 67–89. <https://doi.org/10.1146/annurev.clinpsy.1.102803.143810>
+
+<mark>Dawes, R. M., Faust, D., & Meehl, P. E. (1989). Clinical versus actuarial judgment. *Science*, *243*(4899), 1668–1674. <https://doi.org/10.1126/science.2648573></mark>
+
+<mark>Dawes, R. M. (1986). Representative thinking in clinical judgment. *Clinical Psychology Review*, *6*, 425–441. <https://doi.org/10.1016/0272-7358(86)90030-9></mark>
+
+Youngstrom, E. A., Halverson, T. F., Youngstrom, J. K., Lindhiem, O., & Findling, R. L. (2018). Evidence-based assessment from simple clinical judgments to statistical learning: Evaluating a range of options using pediatric bipolar disorder as a diagnostic challenge. *Clinical Psychological Science*, *6*(2), 243–265. <https://doi.org/10.1177/2167702617741845>
+
+## General Issues in Clinical Assessment {#sec-section11}
+
+#### <u>Section 11</u> {.unnumbered}
+
+\*Benjamin, L. T. (2005). A history of clinical psychology as a profession in America (and a glimpse of its future). *Annual Review of Clinical Psychology*, *1*, 1–30. <https://doi.org/10.1146/annurev.clinpsy.1.102803.143758>
+
+<mark>Kazdin, A. E. (1995). Preparing and evaluating research reports. *Psychological Assessment*, *7*(3), 228–237. <https://doi.org/10.1037/1040-3590.7.3.228></mark>
+
+Sechrest, L., Stickle, T. R., & Stewart, M. (1998). The role of assessment in clinical psychology. In A. Bellack, M. Hersen, & C. R. Reynolds (Eds.), *Comprehensive clinical psychology* (Vol. 4: Assessment). Pergamon.
+
+## Evidence-Based Assessment {#sec-section12}
+
+#### <u>Section 12</u> {.unnumbered}
+
+<mark>Hunsley, J., & Mash, E. J. (2007). Evidence-based assessment. *Annual Review of Clinical Psychology*, *3*, 29–51. <https://doi.org/10.1146/annurev.clinpsy.3.022806.091419></mark>
+
+Antony, M. M., & Rowa, K. (2005). Evidence-based assessment of anxiety disorders in adults. *Psychological Assessment*, *17*(3), 256–266. <https://doi.org/10.1037/1040-3590.17.3.256>
+<mark style="background-color: lightblue">[This is a case study in evidence-based assessment—it's the general approach that matters, not what is specific about anxiety.]</mark>
+
+Youngstrom, E. A., & Van Meter, A. (2016). Empirically supported assessment of children and adolescents. *Clinical Psychology: Science and Practice*, *23*(4), 327–347. <https://doi.org/10.1111/cpsp.12172>
+
+<mark>Youngstrom, E. A., Van Meter, A., Frazier, T. W., Hunsley, J., Prinstein, M. J., Ong, M.-L., & Youngstrom, J. K. (2017). Evidence-based assessment as an integrative model for applying psychological science to guide the voyage of treatment. *Clinical Psychology: Science and Practice*, *24*(4), 331–363. <https://doi.org/10.1111/cpsp.12207></mark>
+
+## Ethical Issues in Assessment {#sec-section13}
+
+#### <u>Section 13</u> {.unnumbered}
+
+<mark>American Psychological Association. (2017). Ethical principles of psychologists and code of conduct. <https://www.apa.org/ethics/code></mark>&nbsp;
+<mark style="background-color: lightblue">(Sections 1, 2, 9).</mark>
+
+Nagy, T. F. (2011). Ethics in psychological assessment. In T. F. Nagy (Ed.), *Essential ethics for psychologists: A primer for understanding and mastering core issues* (pp. 171–183). American Psychological Association. <https://doi.org/10.1037/12345-009>
+
+Campbell, L., Vasquez, M., Behnke, S., & Kinscherff, R. (2010). Assessment. In L. Campbell, M. Vasquez, S. Behnke, & R. Kinscherff (Eds.), *APA Ethics Code commentary and case illustrations*. American Psychological Association.
+
+<mark>Bersoff, D. N., DeMatteo, D., & Foster, E. E. (2012). Assessment and testing. In S. J. Knapp (Ed.), *APA handbook of ethics in psychology* (Vol. 2: Practice, Teaching, and Research, pp. 45–74). American Psychological Association.</mark>
+
+\*Tackett, J. L., Brandes, C. M., & Reardon, K. W. (2019). Leveraging the Open Science Framework in clinical psychological assessment research. *Psychological Assessment*, *31*(12), 1386–1394. <https://doi.org/10.1037/pas0000583>
+
+## Intellectual Assessment {#sec-section15}
+
+#### <u>Section 15</u> {.unnumbered}
+
+<mark>Ackerman, P. L. (2013). Assessment of intellectual functioning in adults. In K. F. Geisinger, J. F. Carlson, J.-I. C. Hansen, N. R. Kuncel, S. P. Reise, & M. C. Rodriguez (Eds.), *APA handbook of testing and assessment in psychology* (Vol. 2: Testing and Assessment in Clinical and Counseling Psychology, pp. 119–132). American Psychological Association. <https://doi.org/10.1037/14048-008></mark>
+
+\*Binet, A., & Simon, T. (1948). Upon the necessity of establishing a scientific diagnosis of inferior states of intelligence. In W. Dennis (Ed.), *Readings in the history of psychology* (pp. 407–411). Appleton-Century-Crofts.
+
+\*Binet, A., & Simon, T. (1948). The development of the Binet-Simon Scale, 1905–1908. In W. Dennis (Ed.), *Readings in the history of psychology* (pp. 412–424). Appleton-Century-Crofts.
+
+\*Cattell, J. M. (1948). Mental tests and measurements, 1890. In W. Dennis (Ed.), *Readings in the history of psychology* (pp. 347–354). Appleton-Century-Crofts.
+
+#### <u>Section 16</u> {.unnumbered #sec-section16}
+
+<mark>McClelland, D. C. (1973). Testing for competence rather than for "intelligence.". American Psychologist, 28, 1–14. <https://doi.org/10.1037/h0034092></mark>&nbsp;
+<mark style="background-color: lightblue">[See also paper by Barrett and Depinet (1991), A reconsideration of Testing for Competence rather than for intelligence, *American Psychologist, 46*, 1012–1024; and McClelland and various others in reply (1994), *American Psychologist, 49*, 64–71.]</mark>
+
+### Bias {#sec-section17}
+
+#### <u>Section 17</u> {.unnumbered}
+
+<mark>Cole, N. S. (1981). Bias in testing. *American Psychologist*, *36*(10), 1067–1077. <https://doi.org/10.1037/0003-066X.36.10.1067></mark>
+
+<mark>Sackett, P. R., & Wilk, S. L. (1994). Within-group norming and other forms of score adjustment in preemployment testing. *American Psychologist*, *49*(11), 929–954. <https://doi.org/10.1037/0003-066X.49.11.929></mark>
+
+#### <u>Section 18</u> {.unnumbered #sec-section18}
+
+<mark>Sackett, P. R., Schmitt, N., Ellingson, J. E., & Kabin, M. B. (2001). High-stakes testing in employment, credentialing, and higher education. *American Psychologist*, *56*, 301–318. <https://doi.org/10.1037/0003-066X.56.4.302></mark>
+
+<mark>Sackett, P. R., Borneman, M. J., & Connelly, B. S. (2008). High stakes testing in higher education and employment: Appraising the evidence for validity and fairness. *American Psychologist*, *63*, 215–227. <https://doi.org/10.1037/0003-066X.63.4.215></mark>
+
+## The Interview and the DSM {#sec-section19}
+
+#### <u>Section 19</u> {.unnumbered}
+
+<mark>Faraone, S. V., & Tsuang, M. T. (1994). Measuring diagnostic accuracy in the absence of a "gold standard". *American Journal of Psychiatry*, *151*, 650–657. <https://doi.org/10.1176/ajp.151.5.650></mark>
+
+\*Sullivan, H. S. (1970). *The psychiatric interview*. Norton. Chapters 1–4, 7
+<mark style="background-color: lightblue">[This is available in the UI library.
+You don't need to read it for this class.
+But you should read it at some point, as an example of a master clinician assessing patients by way of interview.]</mark>
+
+Summerfeldt, L. J., Kloosterman, P. H., & Antony, M. M. (2010). Structured and semistructured diagnostic interviews. In M. M. Antony & D. H. Barlow (Eds.), *Handbook of assessment and treatment planning for psychological disorders* (2nd ed., pp. 95–137). Guilford Press.
+
+Mullins-Sweatt, S. N., & Widiger, T. A. (2009). Clinical utility and DSM-V. *Psychological Assessment*, *21*(3), 302–312. <https://doi.org/10.1037/a0016607>
+
+<mark>Sharp, K. L., Williams, A. J., Rhyner, K. T., & Ilardi, S. S. (2013). The clinical interview. In K. F. Geisinger, J. F. Carlson, J.-I. C. Hansen, N. R. Kuncel, S. P. Reise, & M. C. Rodriguez (Eds.), *APA handbook of testing and assessment in psychology* (Vol. 2: Testing and assessment in clinical and counseling psychology, pp. 103–117). American Psychological Association. <https://doi.org/10.1037/14048-007></mark>
+
+## Assessment of personality and other symptomatology {#sec-section20}
+
+### Objective tests
+
+#### <u>Section 20</u> {.unnumbered}
+
+<mark>Burisch, M. (1984). Approaches to personality inventory construction: A comparison of merits. *American Psychologist*, *39*, 214–227. <https://doi.org/10.1037/0003-066X.39.3.214></mark>
+
+Clark, L. A., & Watson, D. (2019). Constructing validity: New developments in creating objective measuring instruments. *Psychological Assessment*, *31*(12), 1412–1427. <https://doi.org/10.1037/pas0000626>
+
+<mark>Floyd, F. J., & Widaman, K. F. (1995). Factor analysis in the development and refinement of clinical assessment instruments. *Psychological Assessment*, *7*, 286–299. <https://doi.org/10.1037/1040-3590.7.3.286></mark>
+
+#### <u>Section 21</u> {.unnumbered #sec-section21}
+
+\*Graham, J. R. (2022). *MMPI instruments: Assessing personality and psychopathology* (6th ed.). Oxford University Press. (Chapters 1–5, 13).
+<mark style="background-color: lightblue">[This is available in the clinic library.
+Get a feel for this measure and the way it was developed; you don't need to remember details about the scales.]</mark>
+
+Sellbom, M. (2019). The MMPI-2-Restructured Form (MMPI-2-RF): Assessment of personality and psychopathology in the twenty-first century. *Annual Review of Clinical Psychology*, *15*(1), 149–177. <https://doi.org/10.1146/annurev-clinpsy-050718-095701>
+
+<mark>Wiggins, J. S. (1973). Structured techniques. In J. S. Wiggins (Ed.), *Personality and prediction: Principles of personality assessment* (pp. 380–440). Addison-Wesley.</mark>
+
+#### <u>Section 22</u> {.unnumbered #sec-section22}
+
+<mark>Dunning, D., Heath, C., & Suls, J. M. (2004). Flawed self-assessment: Implications for health, education, and the workplace. *Psychological Science in the Public Interest*, *5*, 69–106. <https://doi.org/10.1111/j.1529-1006.2004.00018.x></mark>
+
+<mark>Krosnick, J. A. (1999). Survey research. *Annual Review of Psychology*, *50*, 537–567. <https://doi.org/10.1146/annurev.psych.50.1.537></mark>
+
+### Projective tests {#sec-section23}
+
+#### <u>Section 23</u> {.unnumbered}
+
+\*Frank, L. K. (1939). Projective methods for the study of personality. *Journal of Psychology*, *8*, 389–413. <https://doi.org/10.1080/00223980.1939.9917671>
+
+\*Lindzey, G. (1952). Thematic Apperception Test: Interpretive assumptions and related empirical evidence. *Psychological Bulletin*, *49*, 1–25. <https://doi.org/10.1037/h0062363>
+
+<mark>Lilienfeld, S. O., Wood, J. M., & Garb, H. N. (2000). The scientific status of projective techniques. *Psychological Science in the Public Interest*, *1*, 27–66. <https://doi.org/10.1111/1529-1006.002></mark>
+
+\*Wood, J. M., Nezworski, M. T., & Stejskal, W. J. (1996). The comprehensive system for the Rorschach: A critical examination. *Psychological Science*, *7*(1), 3–10. <https://doi.org/10.1111/j.1467-9280.1996.tb00658.x>.
+<mark style="background-color: lightblue">[See also the response from Exner and reply by Wood et al. on pp. 11–17.]</mark>
+
+### Psychophysiological Measures and RDoC {#sec-section24}
+
+#### <u>Section 24</u> {.unnumbered}
+
+Dubois, J., & Adolphs, R. (2016). Building a science of individual differences from fMRI. *Trends in Cognitive Sciences, 20*(6), 425–443. <https://doi.org/10.1016/j.tics.2016.03.014>
+<mark style="background-color: lightblue">[Students not working in imaging can skip over most of the technical details in this article.
+Read it as a model for taking measurement seriously in an emerging area of clinical research.]</mark>
+
+<mark>Haynes, S. N., & Yoshioka, D. T. (2007). Clinical assessment applications of ambulatory biosensors. *Psychological Assessment*, *19*(1), 44–57. <https://doi.org/10.1037/1040-3590.19.1.44></mark>
+
+<mark>Kozak, M. J., & Cuthbert, B. N. (2016). The NIMH research domain criteria initiative: Background, issues, and pragmatics. *Psychophysiology*, *53*(3), 286–297. <https://doi.org/10.1111/psyp.12518></mark>&nbsp;
+<mark style="background-color: lightblue">[Students already familiar with RDoC can skim this introduction.
+Our interest is in examining RDoC from a measurement perspective.]</mark>
+
+MacNamara, A., & Phan, K. L. (2016). Psychobiological operationalization of RDoC constructs: Methodological and conceptual opportunities and challenges. *Psychophysiology*, *53*(3), 406–409. <https://doi.org/10.1111/psyp.12587>
+
+Miller, G. A., Rockstroh, B. S., Hamilton, H. K., & Yee, C. M. (2016). Psychophysiology as a core strategy in RDoC. *Psychophysiology*, *53*(3), 410–414. <https://doi.org/10.1111/psyp.12581>
+
+<mark>Miller, G. A., Elbert, T., Sutton, B. P., & Heller, W. (2007). Innovative clinical assessment technologies: Challenges and opportunities in neuroimaging. *Psychological Assessment*, *19*(1), 58–73. <https://doi.org/10.1037/1040-3590.19.1.58></mark>
+
+\*Stone, A. A., Schneider, S., & Smyth, J. M. (2023). Evaluation of pressing issues in ecological momentary assessment. *Annual Review of Clinical Psychology*, *19*(1), 107–131. <https://doi.org/10.1146/annurev-clinpsy-080921-083128>
+
+### Computers and Adaptive Testing {#sec-section25}
+
+#### <u>Section 25</u> {.unnumbered}
+
+<mark>Buchanan, T. (2002). Online assessment: Desirable or dangerous? *Professional Psychology: Research and Practice*, *33*(2), 148–154. <https://doi.org/10.1037/0735-7028.33.2.148></mark>
+
+\*Galatzer-Levy, I. R., & Onnela, J.-P. (2023). Machine learning and the digital measurement of psychological health. *Annual Review of Clinical Psychology*, *19*, 133–154. <https://doi.org/10.1146/annurev-clinpsy-080921-073212>
+
+Garb, H. N. (2007). Computer-administered interviews and rating scales. *Psychological Assessment*, *19*(1), 4–13. <https://doi.org/10.1037/1040-3590.19.1.4>
+
+Ruiz, M. A., Drake, E. B., Glass, A., Marcotte, D., & van Gorp, W. G. (2002). Trying to beat the system: Misuse of the internet to assist in avoiding the detection of psychological symptom dissimulation. *Professional Psychology: Research and Practice*, *33*(3), 294–299. <https://doi.org/10.1037/0735-7028.33.3.294>
+
+Forbey, J. D., & Ben-Porath, Y. S. (2007). Computerized adaptive personality testing: A review and illustration with the MMPI-2 computerized adaptive version. *Psychological Assessment*, *19*(1), 14–24. <https://doi.org/10.1037/1040-3590.19.1.14>
+
+<mark>Gibbons, R. D., Weiss, D. J., Frank, E., & Kupfer, D. (2016). Computerized adaptive diagnosis and testing of mental health disorders. *Annual Review of Clinical Psychology*, *12*(1), 83–104. <https://doi.org/10.1146/annurev-clinpsy-021815-093634></mark>
+
+## Behavioral Assessment {#sec-section26}
+
+#### <u>Section 26</u> {.unnumbered}
+
+<mark>Girard, J. M., & Cohn, J. F. (2016). A primer on observational measurement. *Assessment*, *23*(4), 404–413. <https://doi.org/10.1177/1073191116635807></mark>
+
+<mark>Haynes, S. N. (2001). Clinical applications of analogue behavioral observation: Dimensions of psychometric evaluation. *Psychological Assessment*, *13*(1), 73–85.<https://doi.org/10.1037/1040-3590.13.1.73></mark>
+
+Korotitsch, W. J., & Nelson-Gray, R. O. (1999). An overview of self-monitoring research in assessment and treatment. *Psychological Assessment*, *11*(4), 415–425. <https://doi.org/10.1037/1040-3590.11.4.415>
+
+Piasecki, T. M., Hufford, M. R., Solhan, M., & Trull, T. J. (2007). Assessing clients in their natural environments with electronic diaries: Rationale, benefits, limitations, and barriers. *Psychological Assessment*, *19*(1), 25–43. <https://doi.org/10.1037/1040-3590.19.1.25>
+
+## Repeated Assessments across Time {#sec-section27}
+
+#### <u>Section 27</u> {.unnumbered}
+
+Sobell, L. C., & Sobell, M. B. (2008). Timeline followback (TLFB). In A. J. Rush Jr., M. B. First, & D. Blacker (Eds.), *Handbook of psychiatric measures* (2nd ed., pp. 466–468). American Psychiatric Publishing.
+
+<mark>Carpenter, R. W., Wycoff, A. M., & Trull, T. J. (2016). Ambulatory assessment: New adventures in characterizing dynamic processes. *Assessment*, *23*(4), 414–424. <https://doi.org/10.1177/1073191116632341></mark>
+
+<mark>Matthews, M., Abdullah, S., Murnane, E., Voida, S., Choudhury, T., Gay, G., & Frank, E. (2016). Development and evaluation of a smartphone-based measure of social rhythms for bipolar disorder. *Assessment*, *23*(4), 472–483. <https://doi.org/10.1177/1073191116656794></mark>&nbsp;
+<mark style="background-color: lightblue">[a case study in self-report across time.
+Specifics of their study are less important.]</mark>
+
+#### <u>Section 28</u> {.unnumbered #sec-section28}
+
+<mark>Hertzog, C., & Nesselroade, J. R. (2003). Assessing psychological change in adulthood: An overview of methodological issues. *Psychology and Aging*, *18*(4), 639–657. <https://doi.org/10.1037/0882-7974.18.4.639></mark>
+
+Petersen, I. T., Choe, D. E., & LeBeau, B. (2020). Studying a moving target in development: The challenge and opportunity of heterotypic continuity. *Developmental Review*, *58*, 100935. <https://doi.org/10.1016/j.dr.2020.100935>
+
+Beltz, A. M., Wright, A. G. C., Sprague, B. N., & Molenaar, P. C. M. (2016). Bridging the nomothetic and idiographic approaches to the analysis of clinical data. *Assessment*, *23*(4), 447–458. <https://doi.org/10.1177/1073191116648209>
+<mark style="background-color: lightblue">[focus on the general issues of combining idiographic and nomothetic data.
+You don't need to know the technical details of their GIMME model.]</mark>
+
+## Assessment of Cognition {#sec-section29}
+
+#### <u>Section 29</u> {.unnumbered}
+
+\*Busemeyer, J. R., & Stout, J. C. (2002). A contribution of cognitive decision models to clinical assessment: Decomposing performance on the Bechara gambling task. *Psychological Assessment*, *14*(3), 253–262. <https://doi.org/10.1037/1040-3590.14.3.253>
+
+<mark>Dunkley, D. M., Segal, Z. V., & Blankstein, K. R. (2019). Cognitive assessment: Issues and methods. In K. S. Dobson & D. J. A. Dozois (Eds.), *Handbook of cognitive-behavioral therapies* (4th ed., pp. 85–119). Guilford Press.</mark>
+
+Davison, G. C., Vogel, R. S., & Coffman, S. G. (1997). Think-aloud approaches to cognitive assessment and the articulated thoughts in simulated situations paradigm. *Journal of Consulting and Clinical Psychology*, *65*(6), 950–958. <https://doi.org/10.1037/0022-006X.65.6.950>
+
+Hurlburt, R. T. (1997). Randomly sampling thinking in the natural environment. *Journal of Consulting and Clinical Psychology*, *65*(6), 941–949. <https://doi.org/10.1037/0022-006X.65.6.941>
+
+<mark>Rodebaugh, T. L., Scullin, R. B., Langer, J. K., Dixon, D. J., Huppert, J. D., Bernstein, A., Zvielli, A., & Lenze, E. J. (2016). Unreliability as a threat to understanding psychopathology: The cautionary tale of attentional bias. *Journal of Abnormal Psychology*, *125*(6), 840–851. <https://doi.org/10.1037/abn0000184></mark>
+
+Treat, T. A., McFall, R. M., Viken, R. J., Kruschke, J. K., Nosofsky, R. M., & Wang, S. S. (2007). Clinical cognitive science: Applying quantitative models of cognitive processing to examine cognitive aspects of psychopathology. In R. W. J. Neufeld (Ed.), *Advances in clinical cognitive science: Formal modeling of processes and symptoms* (pp. 179–205). American Psychological Association. <https://doi.org/10.1037/11556-006>
+
+</div>
+
+## Cultural and Individual Diversity {.unnumbered .unlisted #sec-section30}
+
+#### <u>Section 30</u> {.unnumbered .unlisted}
+
+<mark style="background-color: lightblue">It may be helpful to review the three Sackett papers and the Cole paper from the Intellectual Assessment section.
+Also review relevant sections of the APA Standards for Educational and Psychological Testing from the Validity section.</mark>
+
+<div style="text-indent: -40px; padding-left: 40px;">
+
+Byrd, D. A., Rivera Mindt, M. M., Clark, U. S., Clarke, Y., Thames, A. D., Gammada, E. Z., & Manly, J. J. (2021). Creating an antiracist psychology by addressing professional complicity in psychological assessment. *Psychological Assessment*, *33*(3), 279-285. <https://doi.org/10.1037/pas0000993>
+
+<mark>Okazaki, S., & Sue, S. (1995). Methodological issues in assessment research with ethnic minorities. *Psychological Assessment*, *7*(3), 367–375. <https://doi.org/10.1037/1040-3590.7.3.367></mark>
+
+Garb, H. N. (1997). Race bias, social class bias, and gender bias in clinical judgment. *Clinical Psychology: Science and Practice*, *4*(2), 99–120. <https://doi.org/10.1111/j.1468-2850.1997.tb00104.x>
+
+Leong, F. T. L., & Kalibatseva, Z. (2016). Threats to cultural validity in clinical diagnosis and assessment: Illustrated with the case of Asian Americans. In N. Zane, G. Bernal, & F. T. L. Leong (Eds.), *Evidence-based psychological practice with ethnic minorities: Culturally informed research and clinical strategies* (pp. 57–74). American Psychological Association.
+
+<mark>Suzuki, L. A., Onoue, M. A., & Hill, J. S. (2013). Clinical assessment: A multicultural perspective. In K. F. Geisinger, J. F. Carlson, J.-I. C. Hansen, N. R. Kuncel, S. P. Reise, & M. C. Rodriguez (Eds.), *APA handbook of testing and assessment in psychology* (Vol. 2: Testing and assessment in clinical and counseling psychology, pp. 193–212). American Psychological Association. <https://doi.org/10.1037/14048-012></mark>
+
+</div>
+
+# Grading System and the Use of +/- {#sec-gradingSystem}
+
+Final grades will be assigned at the end of the semester on the basis of your total percentage of points earned on examinations and your final paper.
+Grades will be assigned on an absolute scale (criterion-referenced grading; see below); course grades will not be curved.
+No extra-credit opportunities are available for this course.
+Please note: As a matter of fairness to all students, I assign grades based on performance and do not negotiate grades.
+Additionally, a penalty of 20% per day will be applied to all assignments turned in late.
+Final grades will be assigned based on the following ranges:
+
+| Grade | Percent |
+|:------|:--------|
+| A+    | 97–100% |
+| A     | 93–96   |
+| A−    | 90–92   |
+| B+    | 87–89   |
+| B     | 83–86   |
+| B−    | 80–82   |
+| C+    | 77–79   |
+| C     | 73–76   |
+| C−    | 70–72   |
+| D+    | 67–69   |
+| D     | 63–66   |
+| D−    | 60–62   |
+| F     | 0–59    |
+
+# Course Grades {#sec-courseGrades}
+
+Final course grades will be assessed based on your performance in the activities below.
+The relative contribution of each component to your final grade is as follows:
+
+- 30%   Exam 1 (Mid-Term)
+- 40%   Exam 2 (Final)
+- 30%   Final Paper
+
+# Tentative Course Outline (exam dates fixed) {#sec-outline}
+
+This is a *tentative* course outline.
+Changes will be discussed in class.
+There are 15 weeks in the semester, and class meets twice per week (30 sections).
+We will have one exam during the semester and one final exam during finals week.
+
+| **Section**          | **Day** | **Date** | **Content**                                                    |
+|:---------------------|:--------|:---------|:---------------------------------------------------------------|
+| [1](#sec-section1)   | T       | 01/20    | Overview of Class; Clinical Science and the Replication Crisis |
+| [2](#sec-section2)   | Th      | 01/22    | Reliability                                                    |
+| [3](#sec-section3)   | T       | 01/27    | Reliability                                                    |
+| [4](#sec-section4)   | Th      | 01/29    | Validity                                                       |
+| [5](#sec-section5)   | T       | 02/03    | Validity                                                       |
+| [6](#sec-section6)   | Th      | 02/05    | Structural Equation Modeling (SEM)                             |
+| [7](#sec-section7)   | T       | 02/10    | Item Response Theory (IRT)                                     |
+| [8](#sec-section8)   | Th      | 02/12    | Prediction Basics                                              |
+| [9](#sec-section9)   | T       | 02/17    | Signal Detection Theory                                        |
+| [10](#sec-section10) | Th      | 02/19    | Clinical Judgment vs. Algorithmic Prediction                   |
+| [11](#sec-section11) | T       | 02/24    | General Issues in Clinical Assessment                          |
+| [12](#sec-section12) | Th      | 02/26    | Evidence-Based Assessment                                      |
+| [13](#sec-section13) | T       | 03/03    | Ethical Issues in Assessment                                   |
+| 14                   | Th      | 03/05    | **Midterm Exam**                                               |
+| [15](#sec-section15) | T       | 03/10    | Intellectual Assessment                                        |
+| [16](#sec-section16) | Th      | 03/12    | Intellectual Assessment                                        |
+|                      | T       | 03/17    | Spring Break!                                                  |
+|                      | Th      | 03/19    | Spring Break!                                                  |
+| [17](#sec-section17) | T       | 03/24    | Bias                                                           |
+| [18](#sec-section18) | Th      | 03/26    | Bias                                                           |
+| [19](#sec-section19) | T       | 03/31    | The Interview and the DSM                                      |
+| [20](#sec-section20) | Th      | 04/02    | Objective Personality Testing                                  |
+| [21](#sec-section21) | T       | 04/07    | Objective Personality Testing                                  |
+| [22](#sec-section22) | Th      | 04/09    | Objective Personality Testing                                  |
+| [23](#sec-section23) | T       | 04/14    | Projective Personality Testing                                 |
+| [24](#sec-section24) | Th      | 04/16    | Psychophysiological Measures and RDoC                          |
+| [25](#sec-section25) | T       | 04/21    | Computers and Adaptive Testing                                 |
+| [26](#sec-section26) | Th      | 04/23    | Behavioral Assessment                                          |
+| [27](#sec-section27) | T       | 04/28    | Repeated Assessments across Time                               |
+| [28](#sec-section28) | Th      | 04/30    | Repeated Assessments across Time                               |
+| [29](#sec-section29) | T       | 05/05    | Assessment of Cognition                                        |
+| [30](#sec-section30) | Th      | 05/07    | Cultural and Individual Diversity; **Final paper due!**        |
+| Finals Week          |         | TBD (week of 5/11) | **Final Exam**                                       |
+
+# Date and Time of the Final Exam {#sec-finalExam}
+
+The [final examination date and time](https://registrar.uiowa.edu/final-exam-schedules) will be announced by the Registrar generally by the fifth week of classes, and it will be announced on the course [Canvas](https://uiowa.instructure.com) site once it is known.
+<u>Do not plan your end of the semester travel plans until the final exam schedule is made public.
+It is your responsibility to know the date, time, and place of the final exam.</u>
+According to the Registrar's final exam policy, students <u>have a maximum of two weeks after the announced final exam schedule</u> to request a change if an exam conflict exists or if a student has more than two exams scheduled for the same day (see the [policy](https://registrar.uiowa.edu/makeup-final-examination-policies) here).
+
+# Course Resources {#sec-courseResources}
+
+There are many course resources available to help you succeed in the class, including:
+
+- Lectures
+- Lecture slides
+- [Lecture recordings](#sec-recordings)
+- [Readings](#sec-articles)
+- [Companion book](#sec-textbook)
+- [Supplemental resources](#sec-supplemental)
+- Discussions on [Canvas](https://uiowa.instructure.com)
+- Office hours
+- Peer study groups
+- the UI [Writing Center](https://writingcenter.uiowa.edu)
+- Tutor Iowa: <https://tutor.uiowa.edu>
+
+# How to Study for this Class {#sec-howToStudy}
+
+To study for this class, my suggestions are:
+
+1. Read the [assigned readings](#sec-articles) *before* each class.
+We have lots of content to cover, and the lectures will move quickly.
+Thus, doing the relevant readings *before* each class will help you best come prepared to learn the material presented in class.
+2. Take good notes while doing the [assigned readings](#sec-articles).
+After reading each article, leave a few bullet points at the top of the article regarding the key points and take-away messages from the article.
+That way, when you go back and review it, the key ideas will refresh your memory and will help you make the relevant connections to the rest of your notes on the article and to the points discussed in lecture.
+1. After doing the [assigned readings](#sec-articles) and before class period, review your notes and try to determine what are the key messages intended to be conveyed by the collection of readings.
+This will set you up to be in the best position to acquire the material covered in lecture.
+1. Take good notes in class.
+1. If something is unclear about the reading or about a point discussed in lecture, feel free to consult the [companion book](#sec-textbook), to review the [lecture recording](#sec-recordings), or to ask questions during or after class, or in office hours.
+Don't struggle in silence!
+1. As you prepare for the exam, review the material covered by each article and lecture.
+If there is an exam review or example study questions, make sure to review those closely.
+The exam review presents some of the key take-away messages from each lecture and thus represents prime material for exam questions.
+The example study questions are NOT comprehensive and are NOT necessarily the same questions that will be asked on the exam, but they should give you a sense of the style in which questions may be asked.
+If there is a question you do not know the full answer to, that is a clue that you need to study that topic more closely.
+1. I strongly encourage you to study with your peers.
+Studying with your peers helps give you a sense about the topics where you feel stronger and the topics where you feel weaker (and need to study more).
+It helps both peers in the exchange when one peer explains a topic to another.
+In addition to helping the listening student learn, peer instruction also helps the explaining student via consolidation of the student's knowledge.
+There is a difference between "knowing something" and "knowing it *well*."
+Explaining a topic to someone else helps you figure out where your knowledge gaps are and can help you make sure you understand the topic *well*.
+Additionally, studying by explaining topics to others aligns more closely with the exam format (short answer/essay), which demands recall rather than mere recognition—recognition alone being typically adequate for multiple-choice exams.
+1. Come to office hours if you still have questions!
+
+# Drop Deadline for this Course {#sec-dropDeadline}
+
+You may drop an individual course before the drop deadline; after this deadline you will need collegiate approval.
+You can look up the drop deadline for this course [here](https://registrar.uiowa.edu/course-deadlines).
+When you drop a course, a "W" will appear on your transcript.
+The mark of "W" is a neutral mark that does not affect your GPA.
+To discuss how dropping (or staying in) a course might affect your academic goals, please contact your Academic Advisor.
+Directions for adding or dropping a course and other registration changes can be found on the [Registrar's website](https://registrar.uiowa.edu/change-registration-myui).
+Students should adhere to the [academic deadlines](https://grad.uiowa.edu/academics/deadlines) and policies set by the Graduate College.
+
+# Feedback about the Course {#sec-feedback}
+
+I welcome feedback at any point during the class.
+If you have comments on the class or my teaching, please feel free to meet with me during office hours.
+
+## Student Complaints {#sec-complaints}
+
+Students with a complaint about a grade or a related matter should first discuss the situation with the instructor, and finally with the DEO (Chair) of the department, school, or program offering the course.
+Sometimes students will be referred to the department or program's Director of Undergraduate Studies (DUS) or Director of Graduate Studies (DGS).
+Students should contact the [CLAS Graduate Affairs Manager](mailto:Erika-christiansen@uiowa.edu) when additional support is needed.
+
+# Communication: UI Email {#sec-email}
+
+Students are responsible for all official correspondences sent to their UI email address (uiowa.edu) and must use this address for any communication with instructors or staff in the UI community.
+For the privacy and the protection of student records, UI faculty and staff can only correspond with UI email addresses.
+
+## Other Expectations of Student Performance {#sec-otherExpectations}
+
+Students have the right to a distraction-free learning environment.
+You have the responsibility to help create such a classroom environment.
+Please treat other students in the class and the instructor with respect.
+Students are expected to help each other learn and to contribute overall to the learning environment of the course.
+Arriving prepared for class is part of this expectation.
+
+# University Policies {#sec-UIowaPolicies}
+
+[University Policies](https://provost.uiowa.edu/student-course-policies)
+
+[Accommodations for Students with Disabilities](https://provost.uiowa.edu/student-course-policies)\
+The University is committed to providing an educational experience that is accessible to all students.
+If a student has a diagnosed disability or other disabling condition that may impact the student's ability to complete the course requirements as stated in the syllabus, the student may seek accommodations through [Student Disability Services](https://sds.studentlife.uiowa.edu/students) (SDS).
+SDS is responsible for making [Letters of Accommodation (LOA)](https://sds.studentlife.uiowa.edu/students/letter-accommodations-loa) available to the student.
+<u>The student must provide a LOA to the instructor as early in the semester as possible, but requests not made at least two weeks prior to the scheduled activity for which an accommodation is sought may not be accommodated.</u>
+The LOA will specify what reasonable course accommodations the student is eligible for and those the instructor should provide.
+Additional information can be found on the [SDS website](https://sds.studentlife.uiowa.edu/students/apply).
+
+[Class Recordings](https://provost.uiowa.edu/student-course-policies)\
+Students may be enrolled in a class where some sessions will be recorded or live-streamed.
+Such recordings/streaming will only be available to students registered for the class.
+These recordings are the intellectual property of the instructor and they may not be shared or reproduced without the explicit, written consent of the instructor.
+Further, students may not share these sessions with those not in the class or upload them to any other online environment.
+Doing so would be a breach of the Code of Student Conduct, and, in some cases, a violation of state and federal law, including the Federal Education Rights and Privacy Act (FERPA).
+
+The unauthorized video or audio recording of academic activities (e.g., lectures, course discussions, office hours, etc.) by a student is prohibited.
+Students with a reasonable accommodation for recording approved by Student Disability Services should notify each instructor and provide the Letter of Accommodation prior to using the accommodation.
+A student may record classroom activities with prior written permission from the instructor and notice to other students in the class that audio or video recording may occur.
+Any and all classroom recording must be for personal academic use only.
+The distribution, sharing, sale, or posting of recordings on the internet (including social media), in whole or in part, is prohibited and doing so may be a violation of the Code of Student Life and/or state or federal privacy, copyright, or other laws.
+
+- [Free Speech and Expression](https://provost.uiowa.edu/student-course-policies)
+- [Non-Discrimination](https://provost.uiowa.edu/student-course-policies)
+- [Accommodations for Students with Disabilities](https://provost.uiowa.edu/student-course-policies)
+- [Absences from Class](https://provost.uiowa.edu/student-course-policies)
+- [Absences for Religious Holy Days](https://provost.uiowa.edu/student-course-policies)
+- [Absences for Military Service Obligations](https://provost.uiowa.edu/student-course-policies)
+- [Classroom Expectations](https://provost.uiowa.edu/student-course-policies)
+- [Sexual Harassment/Misconduct and Supportive Measures](https://provost.uiowa.edu/student-course-policies)
+- [Conflict Resolution](https://provost.uiowa.edu/student-course-policies)
+- [Mental Health](https://provost.uiowa.edu/student-course-policies)
+- [Basic Needs and Student Support](https://provost.uiowa.edu/student-course-policies)
+- [Class Recordings](https://provost.uiowa.edu/student-course-policies)
+
+# Where to Get Academic Support for This Course {#sec-academic-support}
+
+- Drop-in study groups and one-on-one tutoring: office hours of the instructor
+- Formal tutoring: Tutor Iowa: <https://tutor.uiowa.edu>
+- Academic accommodations: <https://sds.studentlife.uiowa.edu>
+
+# Mental Health Resources and Student Support {#sec-mental-health}
+
+Students are encouraged to be mindful of their mental health and seek help as a preventive measure or if feeling overwhelmed and/or struggling to meet course expectations.
+Students are encouraged to talk to their instructor for assistance with specific class-related concerns.
+For additional support and counseling, students are encouraged to contact University Counseling Service (UCS).
+Information about UCS, including resources and how to schedule an appointment, can be found at [counseling.uiowa.edu](http://counseling.uiowa.edu).
+Find out more about UI mental health services at: [mentalhealth.uiowa.edu](http://mentalhealth.uiowa.edu), including the 24-7 [UI Support and Crisis Line](https://mentalhealth.uiowa.edu/ui-support-and-crisis-line).
+
+Additionally, the Office of the Dean of Students can help students navigate personal crisis situations.
+They can provide one-on-one support, help with identifying options, and access to [basic needs resources (such as food, rent, childcare, etc.)](http://basicneeds.uiowa.edu).
+Student Care and Assistance: 132 IMU, [dos-assistance@uiowa.edu](mailto:dos-assistance@uiowa.edu), or 319-335-1162 and more info: [dos.uiowa.edu/assistance](https://dos.uiowa.edu/assistance)
+
+If you feel that you or someone you know may be struggling with an academic, emotional, or psychological problem, the following organizations are available for assistance:
+
+| Service                                                                    | Contact Info                                                       |
+|:---------------------------------------------------------------------------|:-------------------------------------------------------------------|
+| University of Iowa Academic Advising Center                                | 353-5700, <https://advisingcenter.uiowa.edu>                       |
+| University Counseling Services                                             | 335-7294, <https://www.uiowa.edu/ucs>                              |
+| Student Health Service - Mental Health                                     | 335-8394, <https://studenthealth.uiowa.edu/services/psychiatry>    |
+| University of Iowa Hospitals and Clinics Adult Psychiatry Services Clinic  | 353-6314, <https://www.uihealthcare.org/Psychiatry>                |
+| Seashore Clinic (in the UI Department of Psychological and Brain Sciences) | 335-2467, <https://psychology.uiowa.edu/resources/seashore-clinic> |
+| Women's Resource and Action Center                                         | 335-1486, <https://wrac.uiowa.edu>                                 |
+| Rape Victim Advocacy Program                                               | 319-335-6000 or 800-228-1625, <https://www.uiowa.edu/~rvap>        |
+| Office of Sexual Misconduct                                                | 319-335-6200, <https://osmrc.uiowa.edu>                            |
+| CommUnity                                                                  | 855-325-4296, <https://builtbycommunity.org/crisis>                |
+| Community & Family Resources                                               | 351-4357, <https://www.cfrhelps.org>                               |
+
+<u>If you or someone you know is contemplating suicide</u>, either call or text the Suicide and Crisis Lifeline at 988, or call 911.
+
+# Disclaimer {#sec-disclaimer}
+
+This syllabus is subject to change.
+Any changes will be discussed in class, via email, and/or on [Canvas](https://uiowa.instructure.com).

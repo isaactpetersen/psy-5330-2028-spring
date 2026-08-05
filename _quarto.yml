@@ -1,0 +1,64 @@
+project:
+  type: website
+
+website:
+  title: "Class Wiki for Principles of Psychological Assessment (Spring 2026)"
+  repo-url: https://github.com/isaactpetersen/psy-5330-2026-spring
+  repo-actions: [edit, source, issue]
+  google-analytics: G-CD13WE2PJ3
+  navbar:
+    title: "Class Wiki for Principles of Psychological Assessment (Spring 2026)"
+    search: true
+    tools:
+      - icon: github
+        menu:
+          - text: "Source Code"
+            href: https://github.com/isaactpetersen/psy-5330-2026-spring
+          - text: "Report a Bug"
+            href: https://github.com/isaactpetersen/psy-5330-2026-spring/issues/new
+    left:
+      - href: index.qmd
+        text: Home
+      - text: "Course Syllabus"
+        href: syllabus.qmd
+      - text: "Textbook"
+        href: https://isaactpetersen.github.io/Principles-Psychological-Assessment
+      - text: "Miscellaneous"
+        menu:
+        - text: I Think I Might Need Some Help...
+          href: help.qmd
+      - about.qmd
+
+format:
+  html:
+    highlight-style: a11y
+    theme: cosmo
+    css: ["styles.css", "includes/custom.css", "font/css/roboto.css"]
+    toc: true
+    toc-depth: 5
+    toc-title: Contents
+    toc-location: right
+    execute:
+      error: true
+      warning: false
+    code-link: true
+    number-sections: true
+    code-fold: show
+    df-print: paged
+    code-tools:
+      source: true
+      toggle: true
+    link-external-newwindow: true
+    #include-in-header:
+    #  - "includes/google_analytics.html"
+    #include-after-body:
+    #  - "includes/footer.html"
+    license: CC BY
+    author-meta: "Isaac T. Petersen"
+    date-meta: today
+  pdf:
+    keep-tex: true
+    pdf-standard: ua-2
+
+lightbox: 
+  match: auto
